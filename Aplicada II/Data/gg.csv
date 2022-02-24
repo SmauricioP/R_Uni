@@ -1,0 +1,386 @@
+"","MATRICULA","PATERNO","MATERNO","NOMBRES","MATRICULADO 2020-II","MATRICULADO 2020-I","SITUACION ACADEMICA","FACULTAD","CARRERA","CREDITOS MATRICULADOS","CREDITOS APROBADOS"
+"1","20140407","Medrano","Torres","Gabriela Norley","MAT","MAT","Normal","Pesquería","Pesquería",15,189
+"2","20161216","Paredes","Escalante","Kevin","MAT","MAT","Normal","Economía y Planificación","Economía",19,71
+"3","20190363","Kleinerman","Schiappacasse","Ivana Antonella","MAT","MAT","Normal","Ingeniería Agrícola","Ingeniería Agrícola",15,50
+"4","20200336","Saavedra","Quispe","Daniel Salvador","MAT","MAT","Normal","Economía y Planificación","Estadística Informática",16,17
+"5","20170024","Saldaña","Sotelo","Gianella","MAT","MAT","Normal","Agronomía","Agronomía",19,88
+"6","20151220","Vega","Alegre","Karla Milagros","MAT","MAT","Normal","Economía y Planificación","Economía",16,185
+"7","20170285","Mendoza","Gaspar","Gian Franco","MAT","MAT","Normal","Ingeniería Agrícola","Ingeniería Agrícola",23,115
+"8","20151075","Sandoval","Vilcapoma","Luis Julian","MAT","MAT","Normal","Agronomía","Agronomía",24,184
+"9","20201428","Vasquez","Coba","Sebastian Alonso","MAT",NA,"Ingresante","Zootecnia","Zootecnia",20,0
+"10","20180926","Gamboa","Diaz","Haysell Nicole","MAT","MAT","Normal","Agronomía","Agronomía",13,71
+"11","20151208","Mayhua","Esteban","Octavio Andre","MAT","MAT","Normal","Economía y Planificación","Economía",8,187
+"12","20150027","Cruz","Escobar","Thalia Monica","MAT","MAT","Normal","Ingeniería Agrícola","Ingeniería Agrícola",26,132
+"13","20190128","Gordillo","Salazar","Katherine Lucero","MAT","MAT","Normal","Ciencias","Biología",15,31
+"14","20181166","Castillo","Cueva","Milagros Johana","MAT","MAT","Normal","Economía y Planificación","Ingeniería en Gestión Empresarial",16,84
+"15","20110420","Loayza","Paredes","Andrea Julissa","MAT","MAT","Normal con antecedente","Agronomía","Agronomía",19,166
+"16","20140236","Coras","Avila","Diego Aderly","MAT","MAT","Normal","Economía y Planificación","Estadística Informática",16,186
+"17","20200570","Zamora","Paredes","Andres Stephano","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",17,18
+"18","20151058","Mendo","Ponce","Deysi Victoria","MAT","MAT","Normal","Ciencias Forestales","Ingeniería Forestal",24,178
+"19","20150181","Manyahuillca","Gutierrez","Carlos Alexander","MAT","MAT","Normal","Ciencias Forestales","Ingeniería Forestal",21,199
+"20","20201399","Caso","Callalli","Nayely","MAT",NA,"Ingresante","Economía y Planificación","Economía",18,0
+"21","20151078","Stucchi","Rodriguez","Giancarlo Humberto","MAT","INH","Normal","Agronomía","Agronomía",0,64
+"22","20160181","Puicon","Diaz","Andre Abel","MAT","MAT","Normal","Ciencias Forestales","Ingeniería Forestal",11,52
+"23","20090231","Chunca","Challco","Wilfredo","MAT","MAT","Normal con antecedente","Economía y Planificación","Estadística Informática",18,124
+"24","20170429","Collantes","Alvarez","Yackeline","MAT","MAT","Normal","Pesquería","Pesquería",16,73
+"25","20170090","Arias","Rodriguez","Teodomiro","MAT","MAT","Normal","Agronomía","Agronomía",11,87
+"26","20201425","Ore","Diaz","Karin Fiorella","MAT",NA,"Ingresante","Zootecnia","Zootecnia",19,0
+"27","20170054","Ponce","Anchaygua","Lizandro Alonso","MAT","MAT","Normal","Agronomía","Agronomía",18,85
+"28","20170377","Cruces","Gutierrez","Karla Sofia","MAT","MAT","Normal","Ciencias","Meteorología",19,110
+"29","20190192","Valverde","Huamani","Gomer Sandino","MAT","MAT","Normal","Ciencias","Ingeniería Ambiental",19,55
+"30","20191330","Cuadros","Hernandez","Sofia Thais","MAT","MAT","Normal","Economía y Planificación","Ingeniería en Gestión Empresarial",18,24
+"31","20190016","Bustamante","Perez","Valeria Elizabeth","MAT","MAT","Normal","Agronomía","Agronomía",17,49
+"32","20150422","Vinces","Vergaray","Suali Soledad","MAT","MAT","Normal","Pesquería","Pesquería",19,169
+"33","20200467","Pizango","Farfan","Mariana Margarita","MAT","MAT","Normal","Zootecnia","Zootecnia",18,19
+"34","20200076","Pacheco","Garcia","Adriana Daleska","MAT","MAT","Normal","Agronomía","Agronomía",21,14
+"35","20160425","Allcahuaman","Matienzo","Katy Lucía","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",17,142
+"36","20191273","Duarez","Ruiz","Andrea","MAT","MAT","Normal","Economía y Planificación","Economía",19,37
+"37","20150462","Trillo","Chauca","Camila Renata","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",13,161
+"38","20180474","Mory","Rubiños","Claudia Gianella","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",12,88
+"39","20141326","Raucana","Cangalaya","Sandra Paola","MAT","MAT","Normal","Pesquería","Pesquería",17,194
+"40","20200554","Panduro","Yauri","Patricia Carolina","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",18,18
+"41","20150251","Zavaleta","Chaparro","Paola Sofia Inés","MAT","MAT","Normal","Economía y Planificación","Estadística Informática",12,186
+"42","20141376","Trejo","Pachas","Jorge Alejandro Martin","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",10,135
+"43","20161332","Aponte","Huamantinco","Jorge Cesar","MAT","MAT","Normal con antecedente","Zootecnia","Zootecnia",20,72
+"44","20190117","Azañero","Perez","Ayrton Lee Alfredo","MAT","MAT","Observado 1","Ciencias","Biología",7,40
+"45","20100225","Arango","Yamashiro","Veronica","MAT","MAT","Normal con antecedente","Economía y Planificación","Estadística e Informática",8,194
+"46","20150004","Andrade","Aguilar","Joshua Isaac","MAT","MAT","Normal con antecedente","Agronomía","Agronomía",19,123
+"47","20200220","Effio","Bailón","Fiorella Alexia","MAT","MAT","Normal","Ciencias","Ingeniería Meteorológica y Gestión de Riesgos Climáticos",17,16
+"48","20160419","Vela","Jimenez","Manuel","MAT","MAT","Normal con antecedente","Pesquería","Pesquería",19,93
+"49","20200376","Zarate","Rios","Gabriela","MAT","MAT","Normal","Economía y Planificación","Ingeniería en Gestión Empresarial",17,16
+"50","20160166","Del Rio","Torres-Malaga","Jaime Jean Pierre","MAT","MAT","Normal","Ciencias Forestales","Ingeniería Forestal",16,154
+"51","20130939","Lara","Rivas","Edison","MAT","RCI","Observado 2","Agronomía","Agronomía",10,148
+"52","20170178","Morales","Ore","Jose Roberto","MAT","RCI","Normal","Economía y Planificación","Economía",13,17
+"53","20170102","Delgado","Chuchón","Bryan Daniel","MAT","MAT","Normal","Ciencias","Biología",20,121
+"54","20200230","Peralta","Tovar","Max Gonzalo","MAT","MAT","Normal","Ciencias","Ingeniería Meteorológica y Gestión de Riesgos Climáticos",16,16
+"55","20191155","Basurto","Beraun","Kimberly Xiomara","MAT","MAT","Normal","Ciencias","Ingeniería Ambiental",20,33
+"56","20150325","Silvera","Jimenez","Victor Manuel","MAT","MAT","Normal con antecedente","Ingeniería Agrícola","Ingeniería Agrícola",7,34
+"57","20190179","Nuñez","Rucoba","Gabriela Valentina","MAT","MAT","Normal","Ciencias","Ingeniería Ambiental",18,49
+"58","20150436","Flores","Luna","Cristhian Roger","MAT","MAT","Normal con antecedente","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",14,91
+"59","20170125","Huaris","Bendezu","Silvia Mariluz","MAT","MAT","Normal","Ciencias","Biología",21,102
+"60","20151063","Policarpio","Rojas","Gianina Del Rocio","MAT","MAT","Normal","Agronomía","Agronomía",21,87
+"61","20181024","Saucedo","Benites","Jorge Antonio","MAT","MAT","Normal","Ciencias","Biología",17,70
+"62","20151329","Ccahuana","Galindo","Percy","MAT","INH","Normal","Agronomía","Agronomía",4,94
+"63","20200464","Ono","Andahua","Neil Sebastian","MAT","RCI","Ingresante","Zootecnia","Zootecnia",20,0
+"64","20150187","Ramos","Canchari","Melissa Justina","MAT","MAT","Normal","Ciencias Forestales","Ingeniería Forestal",20,154
+"65","20151169","Chinchay","Bengoa","Aleshka Nicolle","MAT","MAT","Normal","Ciencias Forestales","Ingeniería Forestal",15,160
+"66","20190059","Mostacero","Rojas","Juan Carlos","MAT","MAT","Normal","Agronomía","Agronomía",19,47
+"67","20171103","Gomez","Gil","Luis Miguel","MAT","MAT","Normal","Ciencias","Biología",17,98
+"68","20150388","Basualdo","Gago","Joab Jezreel","MAT","MAT","Normal","Ciencias Forestales","Ingeniería Forestal",17,161
+"69","20190493","Carbajal","Bernal","Julio Ysmael","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",20,59
+"70","20141363","Ore","Aymachoque","Joselin Gloria","MAT","MAT","Normal con antecedente","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",10,132
+"71","20181119","Casaverde","Vino","Americo Anthony","MAT","RCI","Observado 1","Economía y Planificación","Economía",14,27
+"72","20191392","Araujo","Caldas","Fatima Yohana","MAT","MAT","Normal","Zootecnia","Zootecnia",15,37
+"73","20151041","Huanca","Criollo","Daniel Angel","MAT","MAT","Normal","Agronomía","Agronomía",20,162
+"74","20181186","Sosaya","Arguedas","Freddy Andre","MAT","MAT","Normal","Economía y Planificación","Ingeniería en Gestión Empresarial",13,66
+"75","20161283","Tejeda","Zea","Kenji Harold","MAT","MAT","Normal","Economía y Planificación","Ingeniería en Gestión Empresarial",25,158
+"76","20200178","Guzman","Urteaga","Jesus Felipe Guiordi","MAT","MAT","Normal","Ciencias","Ingeniería Ambiental",17,12
+"77","20170234","Mariano","Ibañez","Iris Deyssi","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",15,101
+"78","20160217","Quispe","Sanchez","Diego Paolo","MAT","MAT","Normal","Economía y Planificación","Economía",24,167
+"79","20161047","Manco","Gonzales","Jesús Jordan","MAT","NMAT","Normal","Agronomía","Agronomía",19,122
+"80","20100079","Zeballos","Ramos","Richard Brian","MAT","MAT","Normal con antecedente","Agronomía","Agronomía",14,94
+"81","20141102","Ramirez","Maguiña","Mayssa Vanessa","MAT","MAT","Normal con antecedente","Ciencias Forestales","Ingeniería Forestal",6,97
+"82","20150367","Roman","Sosa","Leandro Romario","MAT","MAT","Normal","Zootecnia","Zootecnia",17,145
+"83","20191029","Choy","Lopez","Juan Antonio Maria","MAT","MAT","Normal","Agronomía","Agronomía",20,33
+"84","20201417","Llana","Arroyo","David Manuel","MAT",NA,"Ingresante","Ingeniería Agrícola","Ingeniería Agrícola",16,0
+"85","20161375","Sucno","Ureta","Jorge Enrique","MAT","INH","Prueba","Zootecnia","Zootecnia",7,37
+"86","20150407","Miranda","Brito","Luis Gustavo","MAT","MAT","Normal con antecedente","Pesquería","Pesquería",22,96
+"87","20190527","Zavala","Estrella","Vivian Abigail","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",20,59
+"88","20180083","Ttito","Cutisaca","Hermelinda","MAT","MAT","Normal","Agronomía","Agronomía",16,81
+"89","20180252","Briceño","Francia","Milagros Camila","MAT","MAT","Normal","Economía y Planificación","Estadística Informática",20,103
+"90","20190098","Tejada","Carrillo","Fatima Milena","MAT","MAT","Normal","Agronomía","Agronomía",6,45
+"91","20141089","Escobedo","Carhuamaca","Ruth Sayuri","MAT","NMAT","Normal","Ciencias Forestales","Ingeniería Forestal",18,162
+"92","20200342","Yacila","Aramburu","Pedro David","MAT","MAT","Normal","Economía y Planificación","Estadística Informática",17,17
+"93","20190240","Paucar","Pineda","Lorena Mayte","MAT","MAT","Normal","Ciencias Forestales","Ingeniería Forestal",16,42
+"94","20190445","Arbulu","La Torre","Carlos Arturo","MAT","MAT","Normal","Pesquería","Pesquería",14,49
+"95","20160360","Norabuena","Segovia","Max Erick","MAT","MAT","Observado 2","Zootecnia","Zootecnia",6,51
+"96","20161028","Espinoza","Sacha","Stephany Mariela","MAT","MAT","Normal con antecedente","Agronomía","Agronomía",16,36
+"97","20201386","Juscamaita","Oncebay","Miguel Fernando","MAT",NA,"Ingresante","Ciencias","Ingeniería Ambiental",15,0
+"98","20191519","Quispe","Soto","Yuliana Carla","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",15,33
+"99","20180106","Felix","Chanduvi","Karen Geraldinne","MAT","MAT","Observado 1","Ciencias","Biología",8,69
+"100","20200097","Roman","Rafaele","Jhoisy Lucero","MAT","RCI","Ingresante","Agronomía","Agronomía",15,0
+"101","20161407","Ortiz","Cabillas","Jassmin","MAT","MAT","Normal con antecedente","Pesquería","Pesquería",18,84
+"102","20191337","Jesus","Nina","Andrea Esthefany","MAT","MAT","Normal","Economía y Planificación","Ingeniería en Gestión Empresarial",24,32
+"103","20180445","Anticona","Paico","Sebastian Gavino","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",19,107
+"104","20190355","Gamarra","Rojas","Jesus Bryan","MAT","MAT","Normal","Ingeniería Agrícola","Ingeniería Agrícola",17,36
+"105","20180979","Salazar","Herrera","Stick Germany","MAT","MAT","Normal","Agronomía","Agronomía",21,79
+"106","20171324","Caire","Panduro","Valerie Gianella","MAT","MAT","Normal","Pesquería","Pesquería",20,116
+"107","20190132","Linares","Pillaca","Victoria Isabel","MAT","MAT","Normal","Ciencias","Biología",17,47
+"108","20181286","Davila","Mendoza","Jessica Paola","MAT","MAT","Normal","Pesquería","Pesquería",21,70
+"109","20040328","Chavez","Samanez","Maria Alejandra","MAT","MAT","Normal con antecedente","Zootecnia","Zootecnia",15,133
+"110","20170181","Alvines","Carhuajulca","Leslie Estefany","MAT","MAT","Normal","Economía y Planificación","Economía",23,70
+"111","20140053","Guzmán","Leuyacc","Yosselin Maritza","MAT","INH","Observado 2","Agronomía","Agronomía",4,68
+"112","20191443","Yupan","Montoro","Esmeralda Mercedes","MAT","MAT","Normal","Zootecnia","Zootecnia",18,38
+"113","20151454","Rios","Leon","Yaneth Olenka","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",21,168
+"114","20081305","Chahuayla","Baldeon","Angelica Maria","MAT","MAT","Normal con antecedente","Ingeniería Agrícola","Ingeniería Agrícola",24,172
+"115","20181197","Guevara","Arizola","Mariana Isabella","MAT","MAT","Normal","Ingeniería Agrícola","Ingeniería Agrícola",11,44
+"116","20160003","Alcocer","Quiñones","Yashira Flor","MAT","MAT","Normal con antecedente","Agronomía","Agronomía",7,63
+"117","20160359","Meza","Cayao","Victor Hugo","MAT","MAT","Normal con antecedente","Zootecnia","Zootecnia",14,124
+"118","20151007","Armey","Malpartida","Marina Claudia","MAT","MAT","Normal","Agronomía","Agronomía",16,184
+"119","20180459","Diaz","Ayala","Maria Del Carmen Alessandra","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",14,87
+"120","20191033","Cordova","Pari","Jhonatan Ricardo","MAT","MAT","Normal","Agronomía","Agronomía",14,20
+"121","20191244","Miñano","Barrios","Franco David","MAT","MAT","Normal","Ciencias Forestales","Ingeniería Forestal",17,30
+"122","20161049","Menor","Bustamante","Maria Yanita","MAT","MAT","Normal","Agronomía","Agronomía",21,119
+"123","20191082","Ponce","Zumaeta","Alvaro Jesus","MAT","MAT","Normal","Agronomía","Agronomía",20,38
+"124","20191209","Guerrero","Rodriguez","Leonel Alvaro","MAT","MAT","Normal","Ciencias","Ingeniería Meteorológica y Gestión de Riesgos Climáticos",23,34
+"125","20170194","Brandan","Calero","Yamile Mabel","MAT","MAT","Normal","Economía y Planificación","Economía",20,114
+"126","20171179","Ccahuay","Zacarias","Ruth Abigail","MAT","INH","Prueba","Ciencias Forestales","Ingeniería Forestal",10,42
+"127","20150220","Reeves","Segura","Nagib Abdul","MAT","MAT","Normal","Economía y Planificación","Economía",17,187
+"128","20190302","Lobato","Sulluchuco","Yhiro Sebastian","MAT","MAT","Normal","Economía y Planificación","Estadística Informática",15,37
+"129","20190320","Carbajal","Aviles","Silvana Marcela","MAT","MAT","Normal","Economía y Planificación","Ingeniería en Gestión Empresarial",21,56
+"130","20161402","Maldonado","Yataco","Jorge Luis","MAT","MAT","Normal","Pesquería","Pesquería",17,159
+"131","20190348","Chavez","De la Cruz","Dani Daniel","MAT","MAT","Normal","Ingeniería Agrícola","Ingeniería Agrícola",19,50
+"132","20180470","Marquez","Almonacid","Mirella Felicita","MAT","RCI","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",12,63
+"133","20200537","Gonzales","Lara","Jean Carlos","MAT","RCI","Ingresante","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",18,0
+"134","20191496","Cardenas","Guzman","Gabriela Angela","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",16,34
+"135","20151427","Arias","Ospina","Jenny Isabel","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",15,143
+"136","20101038","Gómez","Delgado","Maria Solange","MAT","NMAT","Normal con antecedente","Agronomía","Agronomía",15,127
+"137","20121142","Avila","Loza","Aldo Favio","MAT","MAT","Normal con antecedente","Economía y Planificación","Estadística Informática",20,175
+"138","20151423","Aguilar","Briceño","Keyla Ceci","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",13,193
+"139","20160176","Marín","Candiotti","Fernando Adrián","MAT","MAT","Normal","Ciencias Forestales","Ingeniería Forestal",15,157
+"140","20150188","Retuerto","Pomazon","Lourdes Lucero","MAT","MAT","Normal","Ciencias Forestales","Ingeniería Forestal",21,144
+"141","20171029","Farro","Anaya","Alessandra Jazmin","MAT","MAT","Normal","Agronomía","Agronomía",18,113
+"142","20200184","Marrou","Uculmana","Andre Sidney","MAT","MAT","Normal","Ciencias","Ingeniería Ambiental",13,11
+"143","20150105","Lopez","Malaga","Salvador Leonardo","MAT","MAT","Normal con antecedente","Ciencias","Biología",18,154
+"144","20170405","Zamudio","Jimenez","Gimena Alejandra","MAT","MAT","Normal con antecedente","Pesquería","Pesquería",16,63
+"145","20140988","Sandoval","La Puerta","Andrea Nadir","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",13,194
+"146","20171315","Quispe","Andrade","Cindy Ely Lucero","MAT","MAT","Normal","Zootecnia","Zootecnia",14,57
+"147","20201366","Ormeño","Méndez","María Isabel Del Pilar","MAT",NA,"Ingresante","Agronomía","Agronomía",15,0
+"148","20131104","Tafur","Mendoza","Jessica Mabel","MAT","MAT","Normal con antecedente","Economía y Planificación","Economía",18,165
+"149","20191177","Onofre","Bejarano","Nicole Menaly","MAT","MAT","Normal","Ciencias","Ingeniería Ambiental",18,34
+"150","20151162","Vera","Galindo","Victoria","MAT","MAT","Normal","Ciencias","Meteorología",14,189
+"151","20140328","Velasquez","Quispe","Laura Stefany","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",22,151
+"152","20160052","Neyra","Mamani","Nestor Jose","MAT","MAT","Normal","Agronomía","Agronomía",19,176
+"153","20180983","Tarazona","Vega","Jhoselin Shaori","MAT","MAT","Normal","Agronomía","Agronomía",15,58
+"154","20171156","Zuzunaga","Garay","Miguel Sebastian Mateo","MAT","MAT","Normal","Ciencias","Ingeniería Ambiental",21,77
+"155","20110426","Peláez","Toribio","Nataly Sabina","MAT","MAT","Normal con antecedente","Pesquería","Pesquería",25,203
+"156","20161165","Villena","Ramos","Arelys Gianella","MAT","MAT","Normal","Ciencias","Meteorología",16,131
+"157","20151259","Lezama","Quiquia","Diego Marcial","MAT","MAT","Normal","Economía y Planificación","Ingeniería en Gestión Empresarial",23,157
+"158","20200304","Ruiz","Villa","Andrea Alejandra","MAT","MAT","Normal","Economía y Planificación","Economía",24,13
+"159","20190047","Julian","Gomez","Cristina Beatriz","MAT","MAT","Normal","Agronomía","Agronomía",19,31
+"160","20160058","Palomino","Tipismana","Axl Mitsiu","MAT","MAT","Normal con antecedente","Agronomía","Agronomía",15,53
+"161","20150159","Meza","Egusquiza","Yezmy","MAT","MAT","Normal con antecedente","Ciencias","Meteorología",20,131
+"162","20190416","Huayhua","Jauregui","Sophia Patricia","MAT","MAT","Normal","Zootecnia","Zootecnia",20,50
+"163","20181126","Fuentes","Cornejo","Rodrigo","MAT","MAT","Normal","Economía y Planificación","Economía",20,47
+"164","20200006","Ataurima","Reymundez","Mayk Bryan","MAT","MAT","Normal","Agronomía","Agronomía",19,15
+"165","20180248","Soto","Rojas","Fernando Giomar","MAT","MAT","Normal","Economía y Planificación","Economía",19,75
+"166","20151199","Burga","Gallardo","Veronika Daniela","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",19,172
+"167","20160442","Huaman","Meneses","Sthephany Alejandra","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",13,109
+"168","20160041","Lino","Laguna","Valeria Pilar","MAT","MAT","Normal","Agronomía","Agronomía",18,104
+"169","20191287","Rodriguez","Chavez","Juan Joel","MAT","MAT","Normal","Economía y Planificación","Economía",20,24
+"170","20181181","Reynalde","Sandoval","Yaritza Silvia","MAT","MAT","Normal","Economía y Planificación","Ingeniería en Gestión Empresarial",18,75
+"171","20200143","Prada","Araujo","Gabriel Marcelo Magno","MAT","MAT","Normal","Ciencias","Biología",16,16
+"172","20191267","Chavez","Huayllani","Xiomi Elizabeth","MAT","MAT","Normal","Economía y Planificación","Economía",16,28
+"173","20200439","Fabian","Paredes","Brenda Ninochka","MAT","MAT","Normal","Zootecnia","Zootecnia",22,20
+"174","20200357","Laynes","Sudario","Maria Fernanda","MAT","MAT","Normal","Economía y Planificación","Ingeniería en Gestión Empresarial",21,12
+"175","20171152","Velasquez","Matute","Maria Alejandra","MAT","MAT","Normal","Ciencias","Ingeniería Ambiental",24,89
+"176","20180398","Taipe","Robles","Aracely Odeliz","MAT","MAT","Normal","Zootecnia","Zootecnia",11,44
+"177","20131323","Silva","Solano","Luisa Fernanda","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",19,180
+"178","20180266","Mercado","Echavarria","Armando Jhunior","MAT","MAT","Normal","Economía y Planificación","Estadística Informática",20,75
+"179","20151376","Valencia","Ccopa","Iomar Andrews","MAT","NMAT","Normal","Ciencias Forestales","Ingeniería Forestal",17,140
+"180","20110155","Narváez","Jara","Andrea Victoria","MAT","MAT","Normal con antecedente","Ciencias","Ingeniería Ambiental",12,70
+"181","20190173","Kisic","Vía","Mirko Antonio","MAT","MAT","Normal","Ciencias","Ingeniería Ambiental",20,55
+"182","20190140","Serrato","Bruno","Milagros Liz","MAT","MAT","Normal","Ciencias","Biología",13,46
+"183","20161253","Altamirano","Rodríguez","Mireya Azucena","MAT","MAT","Normal","Economía y Planificación","Ingeniería en Gestión Empresarial",17,173
+"184","20161231","Barriga","Moreno","Leila Mabel","MAT","MAT","Normal","Economía y Planificación","Estadística Informática",17,129
+"185","20191194","Valiente","Argomedo","Ruth Milagros","MAT","MAT","Normal","Ciencias","Ingeniería Ambiental",17,32
+"186","20191356","Bedoya","Rojas","Angela Belen","MAT","MAT","Normal","Ingeniería Agrícola","Ingeniería Agrícola",20,33
+"187","20160151","Giraldo","Sarmiento","Arturo Manuel","MAT","MAT","Normal","Ciencias","Meteorología",14,177
+"188","20200506","Mamani","Reyes","Eliana Carmen","MAT","MAT","Normal","Pesquería","Pesquería",16,8
+"189","20180192","Anicama","Fajardo","Sebastian Manuel","MAT","MAT","Normal","Ciencias","Ingeniería Ambiental",22,92
+"190","20200453","Lazaro","Caracuzma","Mariela Rosaluz","MAT","MAT","Normal","Zootecnia","Zootecnia",21,19
+"191","20171187","Infante","Molina","Mery Estefany","MAT","MAT","Observado 1","Ciencias Forestales","Ingeniería Forestal",14,35
+"192","20131289","Tello","Candia","Jose Armando","MAT","MAT","Normal con antecedente","Pesquería","Pesquería",20,146
+"193","20170277","Atalluz","Ganoza","Dayan Paola","MAT","MAT","Normal","Ingeniería Agrícola","Ingeniería Agrícola",22,124
+"194","20200176","Gutierrez","Caso","Alvaro Antonio Patrick","MAT","MAT","Normal","Ciencias","Ingeniería Ambiental",18,14
+"195","20171376","Sotomayor","Molina","Ariana Valeria","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",11,62
+"196","20200013","Benito","Barreto","Josabet Esther","MAT","MAT","Normal","Agronomía","Agronomía",22,15
+"197","20131055","Julca","Torres","Juan Ruben","MAT","MAT","Normal con antecedente","Ciencias Forestales","Ingeniería Forestal",24,182
+"198","20170447","Villafani","Benites","Diego Alonso","MAT","NMAT","Normal","Zootecnia","Zootecnia",12,39
+"199","20200109","Valdez","Reyes","Anette Stephanie","MAT","MAT","Normal","Agronomía","Agronomía",19,13
+"200","20170055","Perez","Cerna","Lizbeth Carolina","MAT","MAT","Normal","Agronomía","Agronomía",19,34
+"201","20141086","Bravo","Cristobal","Kimberly Dayana","MAT","MAT","Normal con antecedente","Ciencias Forestales","Ingeniería Forestal",10,90
+"202","20191488","Alvarez","Cornejo","Jhonatan Piero","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",18,37
+"203","20151012","Cahuana","Camacho","Jorge Bryan","MAT","MAT","Normal","Agronomía","Agronomía",22,139
+"204","20171260","Balvin","Toledo","Diego Alberto","MAT","MAT","Normal","Ingeniería Agrícola","Ingeniería Agrícola",15,56
+"205","20181233","Caller","Mayer","Jeff","MAT","MAT","Normal","Zootecnia","Zootecnia",18,75
+"206","20180450","Cardenas","Castro","Shantal Emily","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",20,94
+"207","20170328","Vilchez","Figueroa","Melissa Olenka","MAT","MAT","Normal","Ciencias","Ingeniería Ambiental",15,130
+"208","20160128","Diaz","Huamanñahui","Renzo Abraham","MAT","MAT","Normal","Ciencias","Ingeniería Ambiental",14,186
+"209","20151079","Tabori","Andrade","Nicole","MAT","MAT","Normal","Agronomía","Agronomía",21,182
+"210","20151319","Salinas","Champi","Jaquelin Lisbeth","MAT","MAT","Normal","Ingeniería Agrícola","Ingeniería Agrícola",21,161
+"211","20190190","Sebastian","Lanazca","Doris","MAT","MAT","Normal","Ciencias","Ingeniería Ambiental",19,47
+"212","20180428","Murrugarra","Mesias","Andrea Samantha","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",14,93
+"213","20190071","Poma","Garay","Noely","MAT","MAT","Normal","Agronomía","Agronomía",18,45
+"214","20161037","Huacho","Marcas","Marina","MAT","MAT","Normal","Agronomía","Agronomía",23,153
+"215","20170233","Zamudio","Milla","Gina Pamela","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",17,134
+"216","20181340","Rivas","Suyo","Jessie Sayuri","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",18,68
+"217","20181112","Valenzuela","Fuentes","Alberto","MAT","RCI","Normal","Ciencias Forestales","Ingeniería Forestal",10,46
+"218","20101288","Chillcce","Díaz","Omar Antonio","MAT","MAT","Normal con antecedente","Economía y Planificación","Ingeniería en Gestión Empresarial",12,182
+"219","20181086","Castro","Rivera","Keila Mirella","MAT","MAT","Normal","Ciencias Forestales","Ingeniería Forestal",12,66
+"220","20161445","Hurtado","Pulido","Marcelina Estefanny","MAT","MAT","Observado 1","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",9,69
+"221","20171024","Diaz","Javier","Christopher Walter","MAT","INH","Normal","Agronomía","Agronomía",4,42
+"222","20170242","Calixto","Bustos","Kevin Davis","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",9,86
+"223","20141087","Carranza","Giles","Brenda Karen","MAT","MAT","Normal","Ciencias","Ingeniería Ambiental",11,150
+"224","20191382","Puris","Alcantara","Alejo","MAT","MAT","Normal","Ingeniería Agrícola","Ingeniería Agrícola",22,34
+"225","20171026","Encarnación","Palacios","Saul Yuliano","MAT","MAT","Normal","Agronomía","Agronomía",13,123
+"226","20171240","Olaya","Pajuelo","Alexandra Sofia","MAT","MAT","Normal","Economía y Planificación","Ingeniería en Gestión Empresarial",21,110
+"227","20191164","Cuadros","Huapaya","Jean Piere Alexis","MAT","MAT","Normal","Ciencias","Ingeniería Ambiental",21,43
+"228","20171226","Ayquipa","Simon","Marjorie Rossana","MAT","MAT","Normal","Economía y Planificación","Ingeniería en Gestión Empresarial",19,117
+"229","20151352","Lopez","Enciso","Jorge Antonio","MAT","MAT","Normal con antecedente","Agronomía","Agronomía",16,77
+"230","20200549","Mendoza","Huertas","Diego Alonso","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",15,18
+"231","20191357","Cabanillas","Parian","Keyla Luz","MAT","MAT","Normal","Ingeniería Agrícola","Ingeniería Agrícola",12,24
+"232","20161461","Tasayco","Goicochea","Luis Ivan","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",18,126
+"233","20070052","Quispe","Chipana","Edwar Raul","MAT",NA,"Egresado matriculable","Agronomía","Agronomía",1,204
+"234","20161030","Figueroa","Millan","George Jairo","MAT","MAT","Normal con antecedente","Agronomía","Agronomía",7,89
+"235","20170074","Francia","Arzapalo","Pamela Desireé","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",17,111
+"236","20190365","Mantilla","Ricalde","Jesus Alberto","MAT","MAT","Normal","Ingeniería Agrícola","Ingeniería Agrícola",18,49
+"237","20140071","Martinez","Chacon","Marcos Antonio","MAT","INH","Normal con antecedente","Agronomía","Agronomía",4,146
+"238","20161464","Vargas","Condori","Heydi Melissa","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",18,148
+"239","20191142","Rodriguez","Gonzales","Fabiana Mercedes","MAT","MAT","Normal","Ciencias","Biología",15,31
+"240","20180941","Madueño","Vicente","Rina Marina","MAT","MAT","Normal","Agronomía","Agronomía",22,71
+"241","20170343","Porras","Romero","Erick Raúl","MAT","MAT","Normal","Economía y Planificación","Ingeniería en Gestión Empresarial",22,153
+"242","20191217","Perez","Rojas","Naason Milcerio","MAT","MAT","Normal","Ciencias","Ingeniería Meteorológica y Gestión de Riesgos Climáticos",26,32
+"243","20160097","Diaz","Vives","Yanella Priscilla","MAT","MAT","Normal","Ciencias","Biología",19,115
+"244","20161124","Vásquez","Tangoa","Marcelo Roberto","MAT","MAT","Normal","Ciencias","Biología",17,166
+"245","20201430","Calderon","Calderon","Ariana Beretza","MAT",NA,"Ingresante","Pesquería","Pesquería",17,0
+"246","20151196","Bautista","Palomino","Liliana Maribel","MAT","MAT","Normal","Ciencias Forestales","Ingeniería Forestal",17,155
+"247","20160467","Condor","Soto","Laura Angela","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",19,165
+"248","20151227","Casavilca","Orihuela","Ana Paula","MAT","NMAT","Observado 2","Economía y Planificación","Estadística Informática",4,33
+"249","20190200","Carhuapoma","Huamani","Marco Antonio","MAT","MAT","Normal","Ciencias","Ingeniería Meteorológica y Gestión de Riesgos Climáticos",16,50
+"250","20171373","Romero","Jara","Melanie Nicole","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",16,94
+"251","20151212","Neyra","Diaz","Piero Marcelo","MAT","MAT","Normal","Economía y Planificación","Economía",16,179
+"252","20190197","Alata","Chambilla","Maryann Alessandra","MAT","MAT","Normal","Ciencias","Ingeniería Meteorológica y Gestión de Riesgos Climáticos",15,56
+"253","20200306","Solis","Vasquez","Gianfranco","MAT","MAT","Normal","Economía y Planificación","Economía",26,18
+"254","20171358","Huertas","Tapia","Manuel Alejandro","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",18,77
+"255","20150271","Loayza","Torres","Wendy Estefany","MAT","MAT","Normal con antecedente","Economía y Planificación","Ingeniería en Gestión Empresarial",16,96
+"256","20181239","Condor","Quincho","Mireya Nathali","MAT","MAT","Normal","Zootecnia","Zootecnia",19,63
+"257","20180201","Gonzales","Quiquia","Maria Guadalupe","MAT","MAT","Normal","Ciencias","Ingeniería Ambiental",20,101
+"258","20200091","Riveros","Castillo","Margiori Junett","MAT","RCI","Ingresante","Agronomía","Agronomía",14,0
+"259","20170164","Aquiño","Jaimes","Andres William Jesus","MAT","RCI","Normal","Ciencias","Ingeniería Ambiental",19,125
+"260","20140993","Torre","Garay","Andrea Beatriz","MAT","INH","Prueba","Agronomía","Agronomía",14,117
+"261","20171170","Ramirez","Martinez","Laidely Elizabeth","MAT","MAT","Normal","Ciencias","Meteorología",17,119
+"262","20190313","Torres","Rua","Daniel Isaias","MAT","MAT","Normal","Economía y Planificación","Estadística Informática",11,45
+"263","20080667","Meza","Quilca","John Omar","MAT","MAT","Normal con antecedente","Zootecnia","Zootecnia",17,167
+"264","20180213","Perez","Acho","Joel Andre","MAT","MAT","Normal","Ciencias Forestales","Ingeniería Forestal",20,93
+"265","20180076","Silupu","Vargas","Milagritos","MAT","MAT","Normal","Agronomía","Agronomía",17,87
+"266","20161155","Coronel","Castillo","Danes Ronaldinhio","MAT","MAT","Normal con antecedente","Ciencias","Meteorología",12,82
+"267","20170323","Condori","Hinostroza","Jhanz Antony","MAT","MAT","Normal","Ciencias","Ingeniería Ambiental",16,116
+"268","20170141","Hormaza","Cerron","Gerson Ferrer","MAT","MAT","Normal con antecedente","Ciencias Forestales","Ingeniería Forestal",8,47
+"269","20161417","Taco","Rojas","Tatiana","MAT","MAT","Normal","Pesquería","Pesquería",23,131
+"270","20170418","Ramos","Carhuamaca","Patricia Fiorella","MAT","MAT","Normal","Pesquería","Pesquería",22,95
+"271","20181298","Oblitas","Cavero","Karen","MAT","MAT","Normal","Pesquería","Pesquería",18,74
+"272","20160084","Vera","Oropeza","Melissa Gissel","MAT","MAT","Normal","Agronomía","Agronomía",23,124
+"273","20180134","Bautista","Gómez","Gabriel Isaias","MAT","MAT","Normal","Ciencias","Ingeniería Ambiental",24,102
+"274","20180140","Espinoza","Mantilla","Jair Smiht","MAT","MAT","Normal","Ciencias","Ingeniería Ambiental",21,106
+"275","20180923","Echenique","Ramírez","Gian Del Piero","MAT","MAT","Normal","Agronomía","Agronomía",17,46
+"276","20190454","Chavez","Cutipa","Deysi Sayuri","MAT","MAT","Normal","Pesquería","Pesquería",13,33
+"277","20191301","Durand","Lorenzo","Esthefany Lizbeth","MAT","MAT","Normal","Economía y Planificación","Estadística Informática",15,31
+"278","20200219","Delgado","Fernandez","Keyla","MAT","MAT","Normal","Ciencias","Ingeniería Meteorológica y Gestión de Riesgos Climáticos",15,14
+"279","20161058","Peña","Inga","Gilmer Carlos","MAT","MAT","Normal","Agronomía","Agronomía",9,78
+"280","20171081","Talavera","Huarancca","Alessandra Lucía","MAT","MAT","Normal","Agronomía","Agronomía",20,110
+"281","20200131","Escudero","Guerrero","Jose Luis","MAT","MAT","Normal","Ciencias","Biología",19,16
+"282","20200352","Fenco","Garcia","Angela Patricia","MAT","MAT","Normal","Economía y Planificación","Ingeniería en Gestión Empresarial",17,15
+"283","20170278","Puma","Falcón","Diana Milagros","MAT","MAT","Normal","Ingeniería Agrícola","Ingeniería Agrícola",21,119
+"284","20191042","Espinoza","Carhuaz","Kevin Walter","MAT","MAT","Normal","Agronomía","Agronomía",12,22
+"285","20190271","Luna","Carrera","Marisol Emilia","MAT","MAT","Normal","Economía y Planificación","Economía",22,41
+"286","20161263","Contreras","Campos","Miguel","MAT","MAT","Normal","Economía y Planificación","Ingeniería en Gestión Empresarial",18,113
+"287","20190138","Saldarriaga","Zegarra","Luis Henry","MAT","MAT","Normal","Ciencias","Biología",12,50
+"288","20170375","De La Cruz","Castro","Jean Carlo","MAT","MAT","Normal","Ingeniería Agrícola","Ingeniería Agrícola",18,67
+"289","20180149","Molina","Barrenechea","Isabella Del Rosario","MAT","MAT","Normal","Ciencias","Ingeniería Ambiental",17,82
+"290","20200119","Anzualdo","Rivas","Lizbeth Cristina","MAT","MAT","Normal","Ciencias","Biología",20,15
+"291","20201427","Soria","Palacios","Jakeline Adriana","MAT",NA,"Ingresante","Zootecnia","Zootecnia",20,0
+"292","20201391","Barrientos","Ortiz","Micaela Milagros","MAT",NA,"Ingresante","Ciencias","Ingeniería Meteorológica y Gestión de Riesgos Climáticos",17,0
+"293","20141349","Escobar","Mendoza","Nicolle Sandy","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",7,198
+"294","20181174","Gutierrez","Novoa","Juan Luis","MAT","MAT","Normal","Economía y Planificación","Ingeniería en Gestión Empresarial",22,60
+"295","20111045","Almerco","Monteza","Leonor Carolina","MAT","MAT","Normal con antecedente","Ciencias","Ingeniería Ambiental",7,145
+"296","20081018","Gonzales","Ramos","Raul Eduardo","MAT","MAT","Normal con antecedente","Ciencias","Meteorología",10,194
+"297","20181101","Ricse","Vila","Mildred Yoshiko","MAT","MAT","Normal","Ciencias Forestales","Ingeniería Forestal",13,81
+"298","20130991","Gonzales","Montero","Jesus Andree","MAT","MAT","Normal","Ciencias","Biología",21,141
+"299","20160016","Chavez","Torrejon","Gabriela Patricia","MAT","MAT","Normal","Agronomía","Agronomía",22,168
+"300","20150403","Makka","Cordova","Minako Noemi","MAT","MAT","Normal","Pesquería","Pesquería",21,180
+"301","20170340","Novoa","Del Castillo","Dany","MAT","MAT","Normal","Economía y Planificación","Ingeniería en Gestión Empresarial",22,151
+"302","20140037","Barrera","Pomachagua","Gabriela Mercedes","MAT","MAT","Normal","Agronomía","Agronomía",12,146
+"303","20100080","Baca","Espinoza","Cynthia Jane","MAT","INH","Observado 2","Ciencias","Biología",9,115
+"304","20170111","Aguilar","Bocanegra","Ismael Emilio","MAT","MAT","Normal","Ciencias","Biología",23,132
+"305","20161125","Aguilar","Galvan","Roberto Alonso","MAT","MAT","Normal","Ciencias","Ingeniería Ambiental",18,137
+"306","20071044","Valero","Guizado","Oscar Antonio","MAT","MAT","Normal con antecedente","Ciencias Forestales","Ingeniería Forestal",17,163
+"307","20190114","Angeles","Huere","Nicole Desiree","MAT","MAT","Normal","Ciencias","Biología",12,58
+"308","20170140","Garro","Martinez","Gabriela","MAT","MAT","Normal","Ciencias Forestales","Ingeniería Forestal",17,88
+"309","20150051","Lozano","Trelles","Niels Pierre","MAT","MAT","Normal con antecedente","Agronomía","Agronomía",20,104
+"310","20200455","Mayhuire","Aparcana","Samir Euler","MAT","MAT","Normal","Zootecnia","Zootecnia",19,19
+"311","20110112","Halanocca","Mamani","Miguel Angel","MAT","MAT","Normal","Agronomía","Agronomía",5,159
+"312","20151407","Perry","Haro","Fabiola Patricia","MAT","MAT","Normal","Pesquería","Pesquería",12,197
+"313","20160001","Acedo","Curo","Alexandra Shirley","MAT","MAT","Normal","Agronomía","Agronomía",23,131
+"314","20170392","Condori","Mallqui","Alicia Mercedes","MAT","MAT","Normal","Pesquería","Pesquería",20,86
+"315","20191023","Castro","Chumpitaz","Roberto Victor","MAT","MAT","Normal","Agronomía","Agronomía",19,20
+"316","20161328","Vivanco","Cahuana","Pilar Beatriz","MAT","MAT","Normal","Ingeniería Agrícola","Ingeniería Agrícola",21,107
+"317","20170409","Altamirano","Vargas","Jesús Sebastian","MAT","MAT","Normal","Pesquería","Pesquería",21,84
+"318","20161197","Campaña","Motta","Enzo Paolo","MAT","MAT","Normal con antecedente","Economía y Planificación","Economía",19,42
+"319","20200431","Cardenas","Clemente","Carlos Daniel","MAT","MAT","Normal","Zootecnia","Zootecnia",15,20
+"320","20110179","Aurich","Zambrano","Victor Manuel","MAT","MAT","Normal con antecedente","Ciencias Forestales","Ingeniería Forestal",7,205
+"321","20161285","Vargas","Ore","Bryan Oliver","MAT","MAT","Normal con antecedente","Economía y Planificación","Ingeniería en Gestión Empresarial",22,89
+"322","20170110","Gonzales","Medina","Ingrid Carolay","MAT","MAT","Normal","Ciencias","Biología",20,125
+"323","20180189","Zevallos","Segura","Percy Miguel","MAT","MAT","Normal","Ciencias","Meteorología",18,82
+"324","20180942","Mallqui","Barrientos","Morelia","MAT","MAT","Normal","Agronomía","Agronomía",15,77
+"325","20201378","Vergara","Yaringaño","Cristhian Sebastian","MAT",NA,"Ingresante","Ciencias","Biología",16,0
+"326","20120373","Sandoval","Acosta","Christhoper Deivit","MAT","MAT","Normal con antecedente","Zootecnia","Zootecnia",3,200
+"327","20181199","Huamanyauri","Requejo","Kevin Paul","MAT","MAT","Normal","Ingeniería Agrícola","Ingeniería Agrícola",22,73
+"328","20191349","Salazar","Choque","Nicole Cristina","MAT","MAT","Normal","Economía y Planificación","Ingeniería en Gestión Empresarial",22,19
+"329","20200491","Cuculiza","Bustamante","Rafael","MAT","MAT","Normal","Pesquería","Pesquería",17,13
+"330","20180034","Hancco","Rodríguez","Lizeth Rocio","MAT","MAT","Normal","Agronomía","Agronomía",12,31
+"331","20200416","Rojas","Hilario","Rayda Marinela","MAT","MAT","Normal","Ingeniería Agrícola","Ingeniería Agrícola",20,15
+"332","20180377","Moreyra","Perez","Ashly Mared","MAT","MAT","Normal","Zootecnia","Zootecnia",19,49
+"333","20191247","Quispe","Cerazo","Darwin Jorge","MAT","MAT","Normal","Ciencias Forestales","Ingeniería Forestal",22,43
+"334","20161122","Valverde","Felices","Ricardo Vidal","MAT","MAT","Normal","Ciencias","Biología",15,137
+"335","20191408","Huaman","Ravello","Ayumi Ximena","MAT","MAT","Normal","Zootecnia","Zootecnia",14,38
+"336","20190325","Chinga","Ramirez","Julio Benjamín","MAT","MAT","Normal","Economía y Planificación","Ingeniería en Gestión Empresarial",21,56
+"337","20170331","Fuentes","Montesinos","Pedro Pablo","MAT","MAT","Normal","Ciencias","Ingeniería Ambiental",16,138
+"338","20180959","Oscco","Espinoza","Cristhian Damian","MAT","MAT","Normal","Agronomía","Agronomía",17,48
+"339","20150068","Quiroz","Rojas","Anita Medalith","MAT","MAT","Normal","Agronomía","Agronomía",20,152
+"340","20190204","Chipana","Catunta","Andrea Nicolle","MAT","MAT","Normal","Ciencias","Ingeniería Meteorológica y Gestión de Riesgos Climáticos",22,53
+"341","20180018","Chavez","Alvarado","Flor Merly","MAT","MAT","Normal","Agronomía","Agronomía",15,75
+"342","20200265","Palacios","Enriquez","Streyssi Atenas","MAT","MAT","Normal","Ciencias Forestales","Ingeniería Forestal",13,19
+"343","20171085","Tolay","Espinoza","Jorge André","MAT","MAT","Normal","Agronomía","Agronomía",22,97
+"344","20151326","Bautista","Cerna","Felix","MAT","NMAT","Normal","Ciencias Forestales","Ingeniería Forestal",17,141
+"345","20191350","Aguero","Garcia","Miriam Vilma","MAT","MAT","Normal","Ingeniería Agrícola","Ingeniería Agrícola",12,9
+"346","20151101","Espinoza","Castro","Fiorella Medalit","MAT","MAT","Normal","Ciencias","Biología",7,177
+"347","20190464","Garcia","Lopinta","Miguel Angel","MAT","MAT","Normal","Pesquería","Pesquería",15,55
+"348","20200290","Hilares","Soto","David Simon","MAT","MAT","Normal","Economía y Planificación","Economía",12,15
+"349","20170066","Escalante","Vega","Mercedes Isabel","MAT","MAT","Normal","Agronomía","Agronomía",22,98
+"350","20151037","Gente","Quispe","July Jessi","MAT","MAT","Normal","Agronomía","Agronomía",17,192
+"351","20161396","Flores","Salazar","Joselyn","MAT","MAT","Normal con antecedente","Pesquería","Pesquería",15,71
+"352","20200544","Junco","Atao","Katherine","MAT",NA,"Ingresante","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",18,0
+"353","20200110","Valer","Llerena","Brenda Mariana","MAT","MAT","Normal","Agronomía","Agronomía",17,14
+"354","20150018","Castillo","Montes","Veronica Flor","MAT","MAT","Normal","Agronomía","Agronomía",25,141
+"355","20150344","García","Rojas","Nathaly Aurea","MAT","MAT","Normal con antecedente","Zootecnia","Zootecnia",12,69
+"356","20190255","Varas","Rodriguez","Brigitte Leslie","MAT","MAT","Normal","Ciencias Forestales","Ingeniería Forestal",20,55
+"357","20170199","Corrales","Huaman","Eduardo Joaquín","MAT","MAT","Normal","Economía y Planificación","Estadística Informática",23,104
+"358","20181129","Gonzalo","Tinoco","Robert Steven","MAT","MAT","Normal","Economía y Planificación","Economía",20,67
+"359","20180273","Rodriguez","Rivera","Yosselin Estefany","MAT","MAT","Normal","Economía y Planificación","Estadística Informática",16,58
+"360","20190335","Reiterer","Perez","Paulo","MAT","MAT","Normal","Economía y Planificación","Ingeniería en Gestión Empresarial",26,53
+"361","20191122","Fonseca","Salas","Fátima Lizeth","MAT","MAT","Normal","Ciencias","Biología",20,34
+"362","20161438","Fuentes","Guevara","Dennisse Yeriot","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",6,152
+"363","20151235","Gomez","Mendez","Yan Franco","MAT","MAT","Normal","Economía y Planificación","Estadística Informática",18,99
+"364","20180243","Pacherres","Uchalin","Davor Manuel","MAT","MAT","Normal","Economía y Planificación","Ingeniería en Gestión Empresarial",21,107
+"365","20171091","Vallenas","Garcia","Paola Fiorella","MAT","MAT","Normal","Agronomía","Agronomía",14,34
+"366","20200233","Rodriguez","Oyola","Ruben Heraldo Joshua","MAT","MAT","Normal","Ciencias","Ingeniería Meteorológica y Gestión de Riesgos Climáticos",13,3
+"367","20170256","Olivares","Rodríguez","Sergio Yamir","MAT","MAT","Normal con antecedente","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",15,67
+"368","20190228","Garaycochea","Mestanza","Yeimi Raquel","MAT","MAT","Normal","Ciencias Forestales","Ingeniería Forestal",17,49
+"369","20150072","Quispe","Delgado","Melissa Josselyn","MAT","MAT","Normal","Agronomía","Agronomía",21,146
+"370","20190384","Zacarias","Calderon","Sandro Aldair","MAT","MAT","Normal","Ingeniería Agrícola","Ingeniería Agrícola",19,49
+"371","20190322","Celis","Serrano","Daniela Berenice","MAT","MAT","Normal","Economía y Planificación","Ingeniería en Gestión Empresarial",22,45
+"372","20151257","Huamani","Huamani","Maria Del Rosario","MAT","MAT","Normal","Economía y Planificación","Ingeniería en Gestión Empresarial",27,156
+"373","20180968","Quillca","Gomez","Andrea Thays","MAT","MAT","Normal","Agronomía","Agronomía",16,54
+"374","20171372","Rojas","Paulino","Lisset Lesly","MAT","MAT","Normal","Industrias Alimentarias","Ingeniería en Industrias Alimentarias",19,96
+"375","20191428","Robles","Solar","Candy Elizabeth","MAT","MAT","Normal","Zootecnia","Zootecnia",17,36
+"376","20130148","Jimenez","Avalos","Mariela Alexandra","MAT","MAT","Normal","Ciencias Forestales","Ingeniería Forestal",15,203
+"377","20151358","Ore","Ramos","Linda Ketty","MAT","MAT","Normal","Zootecnia","Zootecnia",21,138
+"378","20150302","Gutierrez","Pacheco","Piero Andre","MAT","MAT","Normal","Ingeniería Agrícola","Ingeniería Agrícola",22,179
+"379","20181039","Mayhuire","Ccopa","Yony Yonathan","MAT","MAT","Normal","Ciencias","Ingeniería Ambiental",16,61
+"380","20170171","Aquiño","Yacsavilca","Enzo Max","MAT","MAT","Normal","Economía y Planificación","Economía",23,77
+"381","20170355","Rios","Castro","Miguel Angel","MAT","MAT","Normal","Economía y Planificación","Ingeniería en Gestión Empresarial",25,146
+"382","20191448","Avalos","Melo","Mayra Alejandra","MAT","MAT","Normal","Pesquería","Pesquería",15,31
+"383","20120041","Gómez","Ramos","Luis Ángel","MAT","NMAT","Normal","Agronomía","Agronomía",12,113
+"384","20160167","Diaz","Flores","Reyna Flor","MAT","MAT","Normal","Ciencias Forestales","Ingeniería Forestal",23,145
+"385","20080930","Liñan","Romero","Anabel Yesenia","MAT","MAT","Normal con antecedente","Agronomía","Agronomía",13,197
