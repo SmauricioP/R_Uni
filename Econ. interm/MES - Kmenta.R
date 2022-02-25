@@ -37,7 +37,7 @@ data("Kmenta")
 
 ############################################################################
 
-## Modelo a estimar ##
+## Especificación ##
 
 # Se estimará un modelo simple de oferta y demanda para demostrar cómo funciona
 # la estimación de parámetros en modelos de ecuaciones simultáneas.
@@ -129,8 +129,8 @@ fit_mc2e <- systemfit(system, method = "2SLS", inst = inst, data = Kmenta)
 res1 <- as.numeric(fit1_mc2e$residuals)
 res2 <- as.numeric(fit2_mc2e$residuals)
 
-sigma <- cov(cbind(res1,res2))
-sg_krk_id <- kronecker(solve(cov_mat), diag(20))
+sigma <- fit_mc2e$residCov # La matriz de covarianza de las dos etapas. 
+sg_krk_id <- kronecker(solve(sigma), diag(20))
 
 ## Etapa III ##
 
@@ -146,14 +146,14 @@ zero2 <- matrix(0,20,3)
 X <- rbind(matrix(c(X1,zero1),20,7),matrix(c(zero2,X2),20,7))
 y <- matrix(rep(Kmenta$consump,2))
 
-beta_mc3e <- solve(t(X) %*% sg_krk_id %*% X) %*% t(X) %*% sg_krk_id %*% y
+beta_mc3e <- solve(t(X) %*% sg_krk_id %*% X) %*% (t(X) %*% sg_krk_id %*% y)
 dimnames(beta_mc3e) <- list(names(coef(fit_mc2e)),"")
+
+coef(fit_mc3e)
 
 # Automatizando todo el proceso:
 
 fit_mc3e <- systemfit(system, method = "3SLS", inst = inst, data = Kmenta)
-coef(fit_mc3e)
+
 t(beta_mc3e)
 
-# En teoría, las estimaciones deberían ser las mismas. Sin embargo, son 
-# ligeramente distintas. Se revisará en una versión posterior.
