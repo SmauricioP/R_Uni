@@ -1,0 +1,168 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{mathtools}
+
+\usepackage[margin=1.15 in]{geometry}
+
+\DeclareMathOperator*{\argmax}{arg\,max}
+
+\setlength{\parindent}{0cm}
+\setlength{\parskip}{0.15cm}
+
+\begin{document}
+
+\section*{Pregunta 1}
+
+Se maximiza respecto a los precios debido a que, por definición, los precios Ramsey \textbf{maximizan el beneficio social}.
+\begin{align*}
+    \max_{p_1,p_2} \ &W(p_1,p_2) = \int_{0}^{f(p_1)} \left(p_1 - \text{Cmg}_1(q)\right)\text{d}q + \int_{0}^{f(p_2)} \left(p_2 - \text{Cmg}_2(q)\right)\text{d}q \\
+    &\text{sujeto a} \ \  p_1f(p_1) + p_2f(p_2) - \text{CT}(f(p_1),f(p_2)) = 0
+\end{align*}
+
+Se arma el lagrangian y se plantea la condición de primer orden.
+\begin{align*}
+    \mathcal{L}(p_1,p_2) =& \int_{0}^{f(p_1)} \left(p_1 - \text{Cmg}_1(q)\right)\text{d}q + \int_{0}^{f(p_2)} \left(p_2 - \text{Cmg}_2(q)\right)\text{d}q \\ 
+    & + \lambda \left( p_1f(p_1) +p_2f(p_2) - \text{CT}\left(f(p_1),f(p_2)\right) \right)
+\end{align*}
+
+Se plantean las condiciones de primer orden.
+\begin{align*}
+    \frac{\partial \mathcal{L}}{\partial p_1} &= 0 \to \left(p_1 - \text{Cmg}_1(f(p_1))\right)f'(p_1) + \lambda \left( f(p_1) + p_1f'(p_1) - \text{Cmg}_1f'(p_1)\right) = 0\\ 
+    \frac{\partial \mathcal{L}}{\partial p_2} &= 0 \to \left(p_2 - \text{Cmg}_2(f(p_2))\right)f'(p_2) + \lambda \left( f(p_2) + p_2f'(p_2) - \text{Cmg}_2f'(p_2)\right) = 0
+\end{align*}
+Agrupando convenientemente
+\begin{align*}
+    (1+\lambda)\left(p_1 - \text{Cmg}_1(f(p_1))\right)f'(p_1) = -\lambda f(p_1) \to \frac{p_1 - \text{Cmg}_1}{p_1} =- \frac{\lambda}{1+\lambda}\frac{f(p_1)}{p_1f'(p_1)} \\ 
+    (1+\lambda)\left(p_2 - \text{Cmg}_2(f(p_2))\right)f'(p_2) = -\lambda f(p_2) \to \frac{p_2 - \text{Cmg}_2}{p_2} =- \frac{\lambda}{1+\lambda}\frac{f(p_2)}{p_2f'(p_2)}
+\end{align*}
+
+Recordando que las elasticidades siempre son negativas, asumiendo demandas sin problemas, se pueden escribir como :
+
+\begin{equation*}
+    \varepsilon_i = p_i\frac{f'(p_i)}{f(p_i)}
+\end{equation*}
+Las condiciones se pueden escribir de la siguiente manera:
+
+\begin{align}
+    \frac{p_1 - \text{Cmg}_1}{p_1} = \frac{\lambda}{1+\lambda}\frac{1}{\vert \varepsilon_1 \vert} \tag{Opt 1}\\ 
+    \frac{p_2 - \text{Cmg}_2}{p_2} = \frac{\lambda}{1+\lambda}\frac{1}{\vert \varepsilon_2 \vert} \tag{Opt 2}
+\end{align}
+
+\newpage
+
+\section*{Pregunta 2}
+En esta sección, se analizan las características de los precios Ramsey.
+\subsection*{Los precios Ramsey \textit{son} óptimos}
+Por definición, los precios Ramsey maximizan el bienestar social\textit{Aunque quizá sea más adecuado analizarlo en términos de pérdida de bienestar social} sujeto a la restricción de beneficios no extraordinarios. De esta manera, los precios Ramsey sí son precios óptimos.
+\begin{equation*}
+    \textbf{p}^* = \argmax_{p_1,\ldots,p_n} \ W(\textbf{p})
+\end{equation*}
+Donde una posible definición de la función de bienestar\footnote{De hecho, esta definición es la que se utiliza en la clase de regulación.} es la suma de los excedentes del consumidor en cada mercado pertinente.
+\begin{equation*}
+    W(\textbf{p}) = \sum_{k = 1}^n \int\limits_0^{q_k(p_k)}\left(p_k - \frac{\partial C(\textbf{q}(\textbf{p}))}{\partial q_k}\right)\text{d}q
+\end{equation*}
+\subsection*{Los precios Ramsey \textit{no son} justos}
+La clave para determinar si los precios Ramsey son justos o no radica sobre el análisis de la \textit{elasticidad de la demanda}. Analizando la condición de primer orden para la maximización de los beneficios del monopolista\footnote{No es dificil ver que, como las demandas de los bienes son independientes entre sí, las condiciones halladas para dos bienes puede ser fácilmente generalizada}:
+\begin{equation*}
+    \frac{p_i - \text{Cmg}_i}{p_i} = \frac{\lambda}{1+\lambda}\frac{1}{\vert \varepsilon_i \vert} 
+\end{equation*}
+Se sabe que mientras menos sustitutos tenga un bien, más inelástico es este bien. Un bien con pocos sustitutos es muy probablemente un bien que se produzca poco y que sea importante para la sociedad\footnote{Quizá haya otra explicación. Por lo que he visto, el profesor lo explica por la parte de los ingresos.}. Sin embargo, ¿qué nos dice la condición de optimalidad? \textbf{Un bien muy inelástico tiene una disociación considerable entre el precio y el costo marginal}, lo que no permitirá que todos los demandantes accedan a este bien, especialmente los de menores ingresos. Por lo tanto, los precios ramsey \textbf{no son justos}.
+
+\subsection*{Los precios Ramsey \textit{son} libres de subsidios cruzados}
+Para garantizar que los precios Ramsey son libres de subsidios cruzados, se deben cumplir las siguientes desigualdades para toda las cantidades:
+\begin{equation*}
+    C(\mathbf{q}) - C(\mathbf{q}_{-i}) \leq p_iq_i \leq C(\mathbf{q}_{-i}) \ \; \forall i=1,\ldots,n
+\end{equation*}
+Donde se tiene que\footnote{El vector $\mathbf{e}_k$ es un vector con un uno en la posición $k$ y cero en el resto de posiciones.}:
+\begin{equation*}
+    \mathbf{q}_{-i} := \sum_{k\neq i}^n q_k \mathbf{e_k}
+\end{equation*}
+\newpage
+Dado que suponemos que la función de costos es lineal y que las cantidades son positivas, se puede escribir la condición de arriba como sigue:
+\begin{equation*}
+    c_iq_i \leq p_iq_i \leq c_iq_i + F
+\end{equation*}
+La primera parte de la inecuación queda asegurada, pues se tiene que $c_i < p_i$. Para la segunda parte de la ecuación, se observa que la función de beneficios evaluada en los precios Ramsey es igual a cero, es decir:
+\begin{equation*}
+    \mathbf{p}^T\mathbf{q} = \mathbf{c}^T\mathbf{q} + F \to \left( \mathbf{p} - \mathbf{c}\right)^T\mathbf{q} = F
+\end{equation*}
+Escrito de otra manera, se puede observar lo siguiente:
+\begin{equation*}
+    \left(p_i-c_i\right)q_i = F - \sum_{k\neq i}^{n} \left(p_k-c_k\right)q_k \leq F
+\end{equation*}
+Finalmente, se concluye que $\left(p_i-c_i\right)q_i\leq F$, o, lo que es lo mismo, $p_iq_i \leq c_iq_i + F$, la segunda inecuación para determinar si los precios están libres de subsidios.
+\subsection*{Los precios Ramsey \textit{son} sostenibles}
+Para el análisis de la sostenibilidad del monopolio multiproducto, el profesor analiza la existencia de economías a escala globales utilizando el siguiente indicador. 
+\begin{equation*}
+    S_G := \frac{C(\mathbf{q})}{\mathbf{q}\cdot \Delta f(\mathbf{q})}
+\end{equation*}
+Donde se dice que existen economías de escala si el indicador $S_G$ es mayor a uno. Bajo el supuesto que los costos son lineales, se tiene lo siguiente:
+\begin{equation*}
+    S_G = \frac{c_1q_1 + c_2q_2 + F}{c_1q_1 + c_2q_2}
+\end{equation*}
+Se puede ver claramente que este indicador siempre será mayor a uno para todos los valores de $q_i$ y del costo marginal $c_i$. 
+
+Más aún, en el caso general, donde $C(\mathbf{q}) = \mathbf{c}^T\mathbf{q} + F$, se observa que:
+
+\begin{equation*}
+    S_G = \frac{\mathbf{c}^T\mathbf{q} + F}{\mathbf{c}^T\mathbf{q}} > \frac{\mathbf{c}^T\mathbf{q}}{\mathbf{c}^T\mathbf{q}} = 1
+\end{equation*}
+Por lo tanto, los precios Ramsey \textbf{son sostenibles}. 
+\newpage
+
+\section*{Pregunta 3}
+
+Se analizará la solución numérica de los precios de Ramsey, partiendo de las condiciones de optimalidad halladas en la primera sección. Para esto, se asumirán las siguientes formas funcionales:
+\begin{align*}
+    \text{CT}(q_1,q_2) &= c_1q_1 + c_2q_2 + F \\
+    q_1 &= a - bp_1\\
+    q_2 &= c - dp_2
+\end{align*}
+Si despejamos ambas condiciones de optimalidad e igualamos, se obtiene la siguiente relación:
+\begin{equation}
+   \frac{p_1 - c_1}{p_1} \varepsilon_1= \frac{p_2 - c_2}{p_2} \varepsilon_2 \tag{Ramsey} 
+\end{equation}
+Calculando las elasticidades precio de la demanda de cada bien:
+\begin{equation*}
+    \varepsilon_1 = -b \; \frac{p_1}{q_1} \ \, , \ \, \varepsilon_2 = -d \; \frac{p_2}{q_2}
+\end{equation*}
+Reemplazando las elasticidades en la condición hallada:
+\begin{align*}
+   \frac{p_1 - c_1}{p_1} -b  \frac{p_1}{q_1} &= \frac{p_2 - c_2}{p_2}  -d \frac{p_2}{q_2} \\
+   b\left(p_1 - c_1\right)q_2 &= d\left(p_2 - c_2\right)q_1
+\end{align*}
+Reemplazando las funciones de demanda en la relación superior para hallar una relación entre las cantidades:
+\begin{align*}
+    (a - bc_1 - q_1)q_2 &= (c - dc_2 - q_2)q_1 \\[4pt]
+    (a - bc_1)q_2 &= (c-dc_2)q_1 \\[0pt]
+    q_2 &= \frac{c-dc_2}{a - bc_1}q_1 \label{eq1}\tag{1}
+\end{align*}
+Por otra parte, teniendo en cuenta la restricción de beneficios no extraordinarios:
+\begin{align*}
+    (p_1-c_1)q_1 + (p_2-c_2)q_2 = F
+\end{align*}
+De manera similar, se reemplazan los $p_i$ para que todo quede en función de cantidades\footnote{Como la función de demanda es $q_1 = a - bp_1$, se puede despejar $p_1$ y restar por $bc_1$ a ambos lados para obtener $b(p_1 - c_1) = a - bc_1 - q_1$. Se procede de manera similar para despejar $p_2 - c_2$.}.
+\begin{equation}
+    \frac{1}{b}(a - bc_1 - q_1)q_1 + \frac{1}{d}(c - dc_2 - q_2)q_2 = F \tag{2}\label{eq2}
+\end{equation}
+Es acá donde empleamos la relación \eqref{eq1} en \eqref{eq2} para obtener la siguiente expresión:
+\begin{equation*}
+    \frac{1}{b}(a - bc_1 - q_1)q_1 + \frac{1}{d}\left(c - dc_2 - \frac{c-dc_2}{a - bc_1}q_1\right)\frac{c-dc_2}{a - bc_1}q_1 = F 
+\end{equation*}
+Donde, simplificando los términos, se obtiene el siguiente polinomio de segundo grado:
+\begin{equation}
+    -\left( \frac{1}{d} + \frac{1}{d}\left( \frac{c-dc_2}{a-bc_1} \right)^2\right)q_1^2 + \left( \frac{a-bc_1}{b} + \frac{c-dc_2}{d}\left( \frac{c-dc_2}{a-bc_1} \right)\right)q_1 - F = 0 \label{eq3} \tag{3}
+\end{equation}
+\newpage
+Afortunadamente, la solución de este tipo de ecuaciones es muy sencilla. Probablemente las raíces sean reales, diferentes y positivas. La solución elegida será la mayor, debido a que este valor maximiza la función objetivo, $W$.
+
+Una vez hallado $q_1^*$, se pueden deducir fácilmente el resto de valores, ya que para hallar $q_2^*$ solo basta utilizar la relación \eqref{eq1} y para hallar los precios solo basta reemplazar en la función de demanda de cada bien.
+
+Finalmente, la pérdida de eficiencia social puede ser hallada fácilmente como el área de los triángulos de pérdida social en cada mercado, donde se necesitará hallar primero las cantidades competitivas:
+\begin{align*}
+    \text{PES}_1 &= \frac{1}{2} \left(p_1^* - c_1\right)\left(q_1^{\text{cp}} - q_1^*\right) \\
+    \text{PES}_2 &= \frac{1}{2} \left(p_2^* - c_2\right)\left(q_2^{\text{cp}} - q_2^*\right)
+\end{align*}
+Donde se tiene que $q_1^{\text{cp}} = a - bc_1$ y $q_2^{\text{cp}} = c - dc_2$, los equilibrios competitivos de cada mercado.
+\end{document}
