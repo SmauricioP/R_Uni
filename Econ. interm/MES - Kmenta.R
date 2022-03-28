@@ -34,6 +34,7 @@ library(nlme)      # Estimación por MCG
 ## Data ##
 
 data("Kmenta")
+colnames(Kmenta) = c("consump", "price", "income", "farmPrice", "trend")
 
 ############################################################################
 
@@ -149,11 +150,9 @@ y <- matrix(rep(Kmenta$consump,2))
 beta_mc3e <- solve(t(X) %*% sg_krk_id %*% X) %*% (t(X) %*% sg_krk_id %*% y)
 dimnames(beta_mc3e) <- list(names(coef(fit_mc2e)),"")
 
-coef(fit_mc3e)
-
 # Automatizando todo el proceso:
 
 fit_mc3e <- systemfit(system, method = "3SLS", inst = inst, data = Kmenta)
-
+coef(fit_mc3e)
 t(beta_mc3e)
 

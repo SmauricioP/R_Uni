@@ -106,9 +106,9 @@ result_1(a, b, c, d, inverse = TRUE, 2) # Resultado total
 
 ## Asignación óptima ##
 
-a <- 80
-b <- 2
-c <- 5
+a <- 200
+b <- 0.7
+c <- 0
 d <- 0.5
 
 fc <- 0
@@ -145,7 +145,7 @@ result_2.1(a,b,c,d,fb,fc, digits = 3)
 
 sol_no_opt <- function(a, b, c, d, cost){
   q = q_opt(a,b,c,d)
-  n = length(costos)
+  n = length(cost)
   
   A = diag(n)
   for (i in 1:n) {
@@ -165,7 +165,7 @@ sol_no_opt <- function(a, b, c, d, cost){
   return(sol)
 }
 sol_opt <- function(a, b, c, d, cost){
-  n = length(costos)
+  n = length(cost)
   
   A = diag(n+1)
   for (i in 1:n) {
@@ -202,9 +202,9 @@ result_2.2 <- function(a,b,c,d, costos, digits = 2){
   }
 }
 
-costos <- list(c(0,0,6.25),
-               c(0,0,8.3),
-               c(0,0,4))
+costos <- list(c(0,0,1),
+               c(0,0,2),
+               c(0,0,6))
 
 result_2.2(a,b,c,d,costos, 3)
 
