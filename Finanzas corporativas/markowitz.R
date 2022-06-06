@@ -5,7 +5,6 @@
 
 # Loading libraries
 library(tidyverse)
-library(nloptr)
 
 # Setting working directory
 setwd("Finanzas corporativas")
@@ -158,14 +157,8 @@ for (i in 0:n) {
 rtn_tang <- mean_grid[which.min(var_grid - var_norisk_grid)]
 sdv_tang <- sqrt(var_grid[which.min(var_grid - var_norisk_grid)])
 
-# Cutting part of the risk-free line
-n_cut <- which.min(var_norisk_grid)
-
-var_norisk_grid  <- var_norisk_grid[-(1:n_cut)]
-mean_norisk_grid <- mean_grid[-(1:n_cut)]
-
 # The Markowitz Bullet - No risk-free assets
-ggplot(data = tibble(x = sqrt(var_norisk_grid), y = mean_norisk_grid)) +
+ggplot(data = tibble(x = sqrt(var_norisk_grid), y = mean_grid)) +
   geom_path(aes(x,y)) +
   xlab("Risk") +
   ylab("Expected return") +
@@ -177,7 +170,7 @@ ggplot(data = tibble(x = sqrt(var_norisk_grid), y = mean_norisk_grid)) +
 ggplot() +
   geom_path(data = tibble(x1 = sqrt(var_grid), y1 = mean_grid),
             aes(x1,y1), col = "blue") +
-  geom_path(data = tibble(x1 = sqrt(var_norisk_grid), y1 = mean_norisk_grid),
+  geom_path(data = tibble(x1 = sqrt(var_norisk_grid), y1 = mean_grid),
             aes(x1,y1), col = "dark green") +
   geom_point(aes(x = sdv_tang,
                  y = rtn_tang),
